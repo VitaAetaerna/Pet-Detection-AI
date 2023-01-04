@@ -17,6 +17,11 @@ As Input a Picture of a Dog or a Cat is given (Need to change Name of your Pictu
 Note that the Picture has to be in png or jpg Format. 
 Path of Cat and Dog Pictures (DataSet) in "ImageUsing" need to be changed too! (DATA_DIR)
 
+Run the Scripts in Order:
+  ImageUsing,
+  AI,
+  EndProduct;
+
 As Output, 0 or 1 is given. 
 0=Dog;
 1=Cat;
